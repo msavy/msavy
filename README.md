@@ -1,6 +1,6 @@
 ### Hello!
 
-Hi! I am the co-founder and principal maintainer of [Apiman](https://www.github.com/apiman/apiman), an open source API Management platform.
+I am the co-founder and principal maintainer of [Apiman](https://www.github.com/apiman/apiman), an open source API Management platform.
 
 I founded the company Black Parrot Labs 🦜⚗️.
 
