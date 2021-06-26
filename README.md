@@ -11,6 +11,7 @@ If you want anything Apiman-related, we can do it! Ask me about Apiman via marc@
 * ⚙️ Custom component implementations and strategies (e.g. custom rate limiting implementation on your datastore of choice)
 * 🔎 Troubleshooting
 * 🌱 Creating or sponsoring new features
+* 💾 Adding support for your favourite SQL database
 * 🐛 Bugfixes
 * 🚀 Scalability and optmisation 
 * 💡 ... you name it!
