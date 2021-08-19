@@ -17,3 +17,9 @@ If you want anything Apiman-related, we can do it! Ask me about Apiman via marc@
 * 💡 ... you name it!
 
 And, of course, it allows us to continue developing Apiman and pushing things forwards.
+
+----
+
+* Email - marc@blackparrotlabs.io
+* LinkedIn - https://www.linkedin.com/in/marcsavy/
+* Twitter  - https://www.twitter.com/marcsavy
