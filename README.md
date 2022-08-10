@@ -4,7 +4,7 @@ I am the co-founder and principal maintainer of [Apiman](https://www.github.com/
 
 I founded the company Black Parrot Labs ⚗️🦜.
 
-If you want anything Apiman-related, we can do it! Ask me about Apiman via marc@blackparrotlabs.io 💬
+If you want anything Apiman-related, we can do it! Ask me about Apiman via marc@blackparrotlabs.io 💬, or you can [schedule a meeting directly via cal.com](https://cal.com/marcsavy) 🗣️.
 
 * 💼 Consulting and support
 * 👷 Custom Apiman policies (i.e. make Apiman do something custom to traffic passing through the gateway)
@@ -22,4 +22,5 @@ And, of course, it allows us to continue developing Apiman and pushing things fo
 
 * Email - marc@blackparrotlabs.io
 * LinkedIn - https://www.linkedin.com/in/marcsavy/
-* Twitter  - https://www.twitter.com/marcsavy
+* Twitter - https://www.twitter.com/marcsavy
+* Cal.com - https://cal.com/marcsavy - you can set up a meeting to talk about Apiman
