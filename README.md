@@ -2,7 +2,7 @@
 
 I am the co-founder and principal maintainer of [Apiman](https://www.github.com/apiman/apiman), an open source API Management platform.
 
-I founded the company [Black Parrot Labs](https://www.blackparrotlabs.io) to provide top-notch support enterprise users of Apiman. A key goal of BPL is to sustain and support the upstream project.
+I founded the company [Black Parrot Labs](https://www.blackparrotlabs.io) to provide top-notch support for enterprise users of Apiman. A key goal of BPL is to sustain and support the upstream project.
 
 If you want anything Apiman-related, we can do it! Ask me about Apiman via marc@blackparrotlabs.io 💬, or you can [schedule a meeting directly via cal.com](https://cal.com/marcsavy) 🗣️.
 
