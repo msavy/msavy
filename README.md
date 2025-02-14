@@ -28,5 +28,5 @@ And, of course, it allows us to continue developing Apiman and pushing things fo
 * Email - marc@blackparrotlabs.io
 * LinkedIn - https://www.linkedin.com/in/marcsavy/
 * Twitter - https://www.twitter.com/marcsavy
-* <a rel="me" href="https://mastodon.social/@MarcSavy">Mastodon</a>
+* BlueSky - https://bsky.app/profile/marcsavy.bsky.social
 * Cal.com - https://cal.com/marcsavy - you can set up a meeting to talk about Apiman
